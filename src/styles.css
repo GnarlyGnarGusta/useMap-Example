@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Json {
+  font-family: "Courier New", Courier, monospace;
+  text-align: left;
+  padding: 1em;
+  margin: 1em;
+}
+
+.Actions {
+  margin-bottom: 1em;
+}
+
+.Actions > button:not(:last-child) {
+  margin-right: 1em;
+}
+
+.Component {
+  margin-bottom: 0.75em;
+}
